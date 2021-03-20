@@ -1,1 +1,2 @@
-# SMART_FarmEverywhere
+# hello-world
+Hello world new project template.
